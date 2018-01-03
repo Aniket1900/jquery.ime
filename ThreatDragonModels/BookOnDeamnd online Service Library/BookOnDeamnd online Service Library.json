@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "BookOnDeamnd online Service Library",
+    "owner": "aniket",
+    "description": "BookOnDemand is online subscription-based service for online library. \n three types of user \n1.Standard user \n2.Premium user\n3.Maintainers \nStandard and Premium users are able to log in, renew their subscriptions, search\nand have access to the standard library. In addition, Premier users have access to\nthe latest release library. Maintainers are able to log in, add books, modify user’s\nsubscriptions, search for any type of books, and read the audit log involving users’\nactivities.\nAn unregistered individual can obtain access to the system via an automatic procedure\ninvolving the payment of the subscription through the DBTI bank: such a procedure\ncan be audited by maintainers. \n\nExternal Dependencies Present in System. \n1. The BookOnDemand Web application runs on a Linux server running\nApache\n2. The database server is MySQL and it runs on a Linux server\n3. The connection between the Web Server and the Database Server is over a\nTCP/IP network\n4. The Web Server access the back-end of the DBTI bank via a web service\ninterface over HTTPS"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
